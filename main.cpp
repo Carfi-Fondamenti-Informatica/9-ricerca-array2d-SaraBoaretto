@@ -2,6 +2,7 @@
 #include "lib.h"
 using namespace std;
 
+
 int main(){
   int pos;
   char a[10][20], f[1][20],
